@@ -1,0 +1,10 @@
+pytest
+pre-commit
+numpy
+pandas
+matplotlib
+tqdm
+farm-haystack[inference]
+datasets
+streamlit
+markdown
